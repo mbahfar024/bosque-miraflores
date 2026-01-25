@@ -1,0 +1,16 @@
+{
+  "name": "Bosque IES Miraflores",
+  "short_name": "Bosque IES",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#2d5a27",
+  "theme_color": "#2d5a27",
+  "description": "Mapa interactivo del Bosque Mediterráneo del IES Miraflores",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
